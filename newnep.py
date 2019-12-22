@@ -1,3 +1,4 @@
+#web_scrapper used to scrape data in CSV's from companies website.
 import csv
 import requests
 from bs4 import BeautifulSoup
